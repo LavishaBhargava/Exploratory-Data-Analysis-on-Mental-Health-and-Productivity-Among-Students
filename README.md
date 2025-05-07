@@ -12,27 +12,27 @@ This project performs a comprehensive **Exploratory Data Analysis (EDA)** on a d
 
 1. Data Cleaning:
 
--Removed missing values.
+   -Removed missing values.
 
--Standardized gender entries for consistency.
+   -Standardized gender entries for consistency.
 
--Ensured correct data types.
+   -Ensured correct data types.
 
 2. Univariate Analysis:
 
--Distribution of individual numerical features like sleep hours, screen time, and stress levels.
+   -Distribution of individual numerical features like sleep hours, screen time, and stress levels.
 
--Histograms showed common ranges and data spread.
+   -Histograms showed common ranges and data spread.
 
 3. Bivariate Analysis:
 
--Correlation heatmap revealed strong/weak relationships between variables.
+   -Correlation heatmap revealed strong/weak relationships between variables.
 
 For example, screen time and stress level had a mild positive correlation.
 
 4. Categorical Analysis:
 
--Boxplots showed how categorical variables (Gender, Diet Quality, Social Media Usage) influence stress and productivity.
+   -Boxplots showed how categorical variables (Gender, Diet Quality, Social Media Usage) influence stress and productivity.
 
 ## 📈 Key Insights:
 
